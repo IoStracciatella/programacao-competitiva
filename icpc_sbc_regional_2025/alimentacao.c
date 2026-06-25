@@ -1,3 +1,5 @@
+// O número mínimo de alunos que temos que ter por escola é a soma de todas as maiores quantidades de frutas preferidas por sala
+
 #include <stdio.h>
 #include <stdlib.h>
 
