@@ -18,6 +18,7 @@ int main () {
 
     scanf("%d %d", &n, &m);
 
+    // O exercício impõe algumas restrições na qtde de pizzas e pessoas
     if (n < 1 || m < 1) {
         printf("Insira um valor valido.");
         return 1;
